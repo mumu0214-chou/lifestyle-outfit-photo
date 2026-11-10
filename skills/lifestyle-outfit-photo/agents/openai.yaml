@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书生活化穿搭生图"
+  short_description: "根据模特脸图和服装商品图策划、生成并检查小红书实拍感穿搭照片"
+  default_prompt: "使用 $lifestyle-outfit-photo，按提供的模特和商品图生成生活化穿搭照片。"
